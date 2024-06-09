@@ -1,0 +1,21 @@
+{
+    "auth":
+    {
+        "screen_name": "",
+        "CONSUMER_KEY": "",
+        "CONSUMER_SECRET": "",
+        "ACCESS_TOKEN": "",
+        "ACCESS_SECRET": ""
+    },
+    "lang": "it",
+    "results_search": 5,
+    "blacklisted": [],
+    "keywords": [],
+    "whitelisted_accounts": [],
+    "messages": [],
+    "targets": ["OfferteToste","superofferte","PepperOfferte"],
+    "start_time": "07:31",
+    "end_time": "22:21",
+    "debug": 0,
+    "time_zone": "Europe/Amsterdam"
+}
